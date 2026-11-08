@@ -1,7 +1,12 @@
+https://youtube.com/shorts/Skqr48mUc2o?feature=share
+
 # Pico 防犯ライト（Raspberry Pi Pico 2 W）
 
 人感センサーで人の動きを検知すると、LEDとブザーで知らせる防犯ライトです。
 PCにつながなくても、USB電源につなぐだけで動きます。
+
+## 動作の様子
+[動画を見る（YouTube）](https://youtube.com/shorts/Skqr48mUc2o?feature=share）
 
 ## 動き
 1. 起動して30秒：黄色が点滅（人感センサーの安定待ち）
